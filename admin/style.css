@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#CCC;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#logreg{
+	margin-left: auto;
+	margin-right:auto;
+	text-align:center;
+	overflow:hidden;
+	width:15em;
+}
+.boxes{
+	text-align:left;
+	display:block;
+}
+
+#Register{
+	display:none;
+}
+
+#lrheader{
+	margin: 2em 0;
+}
+
+#lrheader a{
+	color:black;
+	text-decoration:none;
+	margin:1em;
+}
+
+#lrheader a:hover{
+	color:#F00;
+}
